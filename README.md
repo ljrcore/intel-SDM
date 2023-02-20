@@ -1,1 +1,1 @@
-# intel-manual-book
+# intel-SDM
